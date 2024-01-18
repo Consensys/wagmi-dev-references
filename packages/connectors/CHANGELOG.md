@@ -1,5 +1,46 @@
 # @wagmi/connectors
 
+## 2.6.6
+
+### Patch Changes
+
+- 56c127d: Updated WalletConnect dependencies.
+- Updated dependencies [4b411d2]
+- Updated dependencies [df697ac]
+- Updated dependencies [186f5a7]
+- Updated dependencies [a96b514]
+- Updated dependencies [0a6e6da]
+  - @wagmi/chains@1.5.0
+
+## 2.6.5
+
+### Patch Changes
+
+- 51e346e: Updated WalletConnectConnector logic to handle individual namespaces like eip155:\*
+
+## 2.6.4
+
+### Patch Changes
+
+- 0a57de2: Added conditional for WalletConnectConnector optionalChains
+
+## 2.6.3
+
+### Patch Changes
+
+- f2d532d: Updated WalletConnect dependencies, exposed `relayUrl` option for `WalletConnectConnector`
+- ff53857: Fixed issue importing `EthereumProvider` in Vite environments.
+- Updated dependencies [d642e1d]
+- Updated dependencies [3027d7b]
+- Updated dependencies [97dbd44]
+  - @wagmi/chains@1.4.0
+
+## 2.6.2
+
+### Patch Changes
+
+- 27bb1b3: Added explicit type annotations for the `getWalletClient()` method.
+
 ## 2.6.1
 
 ### Patch Changes

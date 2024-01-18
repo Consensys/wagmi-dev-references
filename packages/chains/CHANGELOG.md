@@ -1,5 +1,42 @@
 # @wagmi/chains
 
+## 1.6.0
+
+### Minor Changes
+
+- 3c3143d: Added MEV and MEVTestnet Chain
+- d4460ab: Added Base
+- 6bf0ab9: Added Multicall to EOS EVM & EOS EVM Testnet
+
+### Patch Changes
+
+- 8504c8b: Updated gnosis explorer url(s)
+- dee1782: Renamed Optimism chain
+
+## 1.5.0
+
+### Minor Changes
+
+- 4b411d2: Added Mantle and Mantle Testnet chains
+- df697ac: Added Taiko (Alpha-3 Testnet)
+- a96b514: Added nexilix chain
+- 0a6e6da: Added multicall3 address to Polygon zkEVM
+
+### Patch Changes
+
+- 186f5a7: Fixed Canto RPC and block explorer urls.
+
+## 1.4.0
+
+### Minor Changes
+
+- 97dbd44: Added EOS EVM and EOS EVM Testnet chains
+
+### Patch Changes
+
+- d642e1d: Updated PulseChain Metadata
+- 3027d7b: Updated Zora chain URLs and names
+
 ## 1.3.0
 
 ### Minor Changes
